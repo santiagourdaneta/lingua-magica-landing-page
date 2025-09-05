@@ -1,0 +1,23 @@
+# Dependency directories
+/node_modules
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+
+# Environment variables
+.env
+.env.local
+
+# Build output
+/dist
+/out
+.astro
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+
+# macOS and Linux system files
+.DS_Store
